@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UTMNLessons</string>
+    <string name="hello_string">Hello, world!</string>
 </resources>

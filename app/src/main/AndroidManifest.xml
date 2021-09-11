@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UTMNLessons">
         <activity
-            android:name=".MainActivity"
+            android:name=".HelloActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
