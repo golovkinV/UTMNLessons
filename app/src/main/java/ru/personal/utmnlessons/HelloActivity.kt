@@ -15,6 +15,6 @@ class HelloActivity: AppCompatActivity() {
     }
 
     fun handleTap(view: View) {
-        Toast.makeText(this, "Hello", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, R.string.hello_toast, Toast.LENGTH_LONG).show()
     }
 }
